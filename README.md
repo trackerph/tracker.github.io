@@ -18,19 +18,7 @@ Mpox Tracker is a data-driven platform that aims to inform the public and health
 
 ## 🛠️ Built With
 
-- Backend: Node.js / Python / PHP (your choice)
-- Frontend: React / Vue / Bootstrap / Tailwind
+- Frontend: HTML / CSS / Javascript / Svelte
 - Data Sources: WHO, CDC, local government health APIs
 
-## 📦 Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/mpox-tracker.git
-cd mpox-tracker
-
-# Install dependencies
-npm install  # or pip install -r requirements.txt
-
-# Run the app
-npm start  # or python app.py
